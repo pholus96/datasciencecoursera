@@ -9,7 +9,7 @@ Is this just normal text then?
 
 # Heading?
 text
-# Secondary Heading?
+## Secondary Heading?
 text
 ### Tertiary Heading?
 text
